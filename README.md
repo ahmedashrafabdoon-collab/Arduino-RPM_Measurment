@@ -61,7 +61,7 @@ This measurement technique is useful in:
 - Closed-loop speed control.
 - PID motor speed control projects.
 
-👉 **[Watch the Demo Video on LinkedIn]([https://www.linkedin.com/posts/ahmed-ashraf-abdoun_iot-embeddedsystems-esp8266-ugcPost-7493636786812850177-Y9yB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzffFcBcJHshVkb0FFzBLMRdlbfaMp3SXY](https://www.linkedin.com/posts/ahmed-ashraf-abdoun_measuring-wheel-rpm-using-an-ir-encoder-activity-7526922139892101120-sLQ_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzffFcBcJHshVkb0FFzBLMRdlbfaMp3SXY))**
+👉 **[Watch the Demo Video on LinkedIn]((https://www.linkedin.com/posts/ahmed-ashraf-abdoun_measuring-wheel-rpm-using-an-ir-encoder-activity-7526922139892101120-sLQ_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzffFcBcJHshVkb0FFzBLMRdlbfaMp3SXY))**
 
 
 
