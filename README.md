@@ -31,9 +31,9 @@ The RPM value is continuously displayed through the Serial Monitor.
 
 The RPM is calculated using the following formula:
 
-\[
+$$
 RPM = \frac{Pulses \times 60}{PPR \times \Delta t}
-\]
+$$
 
 Where:
 
