@@ -4,7 +4,6 @@
 Check out the working video demonstration of the project:
 👉 **[Watch the Demo Video on LinkedIn](https://www.linkedin.com/posts/ahmed-ashraf-abdoun_measuring-wheel-rpm-using-an-ir-encoder-activity-7526922139892101120-sLQ_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzffFcBcJHshVkb0FFzBLMRdlbfaMp3SXY)**
 
-
 ---
 ## Overview
 
